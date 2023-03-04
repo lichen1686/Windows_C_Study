@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Windows_C_Study.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Windows_C_Study.dir/objects.a @CMakeFiles\Windows_C_Study.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Windows_C_Study.dir/objects.a -Wl,--no-whole-archive -o Windows_C_Study.exe -Wl,--out-implib,libWindows_C_Study.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Windows_C_Study.dir\linklibs.rsp

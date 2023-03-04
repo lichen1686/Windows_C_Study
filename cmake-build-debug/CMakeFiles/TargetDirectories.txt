@@ -1,0 +1,3 @@
+C:/Users/lichen/CLionProjects/Windows_C_Study/cmake-build-debug/CMakeFiles/Windows_C_Study.dir
+C:/Users/lichen/CLionProjects/Windows_C_Study/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lichen/CLionProjects/Windows_C_Study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
